@@ -1,0 +1,48 @@
+@import "https://fonts.googleapis.com/css?family=Fauna+One|Montserrat|Great+Vibes";
+
+/* BASE STYLES */
+/**********************************************/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FFF;
+  font-family: "Fauna One", serif, Montserrat, sans-serif;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+/* TYPOGRAPHY
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+} */
+
+/*Header font*/
+h1 {
+  font-size: 40px;
+  font-family: "Great Vibes", cursive;
+  color: #789aa0;
+  font-weight: lighter;
+}
+
+/*Button font*/
+h2 {
+  font-family: Montserrat, sans-serif;
+  color: #FFF;
+  font-weight: lighter;
+}
+
+p {
+  font-family: "Fauna One", serif;
+  color: #000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.calculator {
+  text-align: center;
+  padding: 20px;
+}
